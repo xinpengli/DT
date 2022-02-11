@@ -38,7 +38,7 @@
 		<version.motan>0.2.3</version.motan>
 		<version.jetty>9.3.8.v20160314</version.jetty>
 		<version.netty>4.1.4.Final</version.netty>
-		<version.vertx>3.4.1</version.vertx>
+		<version.vertx>3.9.4</version.vertx>
 
 		<version.fasterxml.jackson>2.9.5</version.fasterxml.jackson>
 		<version.alibaba.fastjson>1.2.36</version.alibaba.fastjson>
