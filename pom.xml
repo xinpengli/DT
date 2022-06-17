@@ -41,7 +41,7 @@
 		<version.vertx>3.4.1</version.vertx>
 
 		<version.fasterxml.jackson>2.9.5</version.fasterxml.jackson>
-		<version.alibaba.fastjson>1.2.36</version.alibaba.fastjson>
+		<version.alibaba.fastjson>1.2.83</version.alibaba.fastjson>
 		<version.fastjson>1.2.7</version.fastjson>
 		<version.pinyin4j>2.5.1</version.pinyin4j>
 
